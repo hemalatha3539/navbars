@@ -1,0 +1,15 @@
+.navbar {
+  position: sticky;
+  top: 0px;
+  background-color: rgb(213, 209, 217);
+  opacity: calc(50%);
+}
+.body1 {
+  background-image: url("https://i.pinimg.com/originals/48/f9/60/48f960242685f9692becbf63d00bea0a.jpg");
+  width: 100%;
+  object-fit: cover;
+}
+.middle {
+  background-color: rgb(213, 209, 217);
+  opacity: calc(20%);
+}
