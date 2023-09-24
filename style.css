@@ -2,7 +2,7 @@
   position: sticky;
   top: 0px;
   background-color: rgb(213, 209, 217);
-  opacity: calc(50%);
+/*   opacity: calc(50%); */
 }
 .body1 {
   background-image: url("https://i.pinimg.com/originals/48/f9/60/48f960242685f9692becbf63d00bea0a.jpg");
@@ -11,5 +11,5 @@
 }
 .middle {
   background-color: rgb(213, 209, 217);
-  opacity: calc(20%);
+/*   opacity: calc(20%); */
 }
